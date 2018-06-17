@@ -3,6 +3,16 @@
 https://rxjs-dev.firebaseapp.com/guide/overview
 https://rxjs-dev.firebaseapp.com/api
 
+# Branch
+
+Il master è il punto di partenza.
+Il typescript-playground mi servirà per fare delle prove in ts e RxJS.
+Gli altri branch saranno rispetto alla finalità degli operatori (es. creational) e saranno in vanilla JavaScript (ES6) no Angular!
+
+Per switchare un branch: git checkout <nomebranch>
+Per creare un branch: git checkout -b <nomebranch>
+Per vedere i branch locali: git branch
+
 # TypeScript
 
 Crea il tsconfig.json:
